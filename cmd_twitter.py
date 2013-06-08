@@ -5,7 +5,7 @@
 
 # This Twitter app was built with the sample code provided at
 # Python on Campus, an event hosted by WatPy on 8 June, 2013.
-# Additional help was provided by tutors (@psobot, @amtinits,
+# Lots of help was provided by tutors (@psobot and @amtinits
 # among others) hovering nearby. :)
 # http://watpy.ca/learn/project/twitter/
 
